@@ -6,7 +6,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^0.1.0
   rxdart: ^0.16.6
-  sqflite: ^0.8.7
+  sqflite: ^2.0.0
   path_provider: ^0.4.0
 
 dev_dependencies:
